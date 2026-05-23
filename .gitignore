@@ -5,3 +5,6 @@ dist/
 *.tsbuildinfo
 .vscode/
 .DS_Store
+*.skill
+dead-code-cleaner/
+study-mentor/
